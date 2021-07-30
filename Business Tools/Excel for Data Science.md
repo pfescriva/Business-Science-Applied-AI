@@ -2,8 +2,7 @@
 
 **1.Reporting** 
 
-Data is often necessary in that format. Sometimes this is not a tool, this is only insight, so building a visualisation tool is not worth it. Excel allows user to play with the numbers 
-and use them to compliment additional reports. 
+Data is often necessary in that format. Sometimes this is not a tool, this is only insight, so building a visualisation tool is not worth it. Excel allows the customer to play with the numbers and use them to compliment additional reports. 
 
 
 **2. Visualisation** 
