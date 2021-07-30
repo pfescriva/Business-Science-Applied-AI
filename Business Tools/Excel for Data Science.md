@@ -26,6 +26,10 @@ Excel include some nice visualisation opportunities and specially python users (
 
 ### Commands that are the same as Redshift SQL
 
+### Commands that are the same as Python
+
+### Commands that are the same as R
+
 ## Pivot tables 
 
 
