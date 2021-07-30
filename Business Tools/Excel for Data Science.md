@@ -13,3 +13,19 @@ faster
 Excel include some nice visualisation opportunities and specially python users (If they don't know R) can plot and present data in a more professional way. 
 
 # Need to know:
+
+
+## Ribborn 
+
+
+## Common Commands 
+
+
+## Pivot tables 
+
+
+### Normal tables 
+
+
+### Pivot tables 
+
