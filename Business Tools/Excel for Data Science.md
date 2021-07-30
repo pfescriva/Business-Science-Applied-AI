@@ -20,6 +20,11 @@ Excel include some nice visualisation opportunities and specially python users (
 
 ## Common Commands 
 
+### VLOOKUP 
+
+### SPLIT 
+
+### Commands that are the same as Redshift SQL
 
 ## Pivot tables 
 
@@ -29,3 +34,6 @@ Excel include some nice visualisation opportunities and specially python users (
 
 ### Pivot tables 
 
+
+## Macros 
+ 
