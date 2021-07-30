@@ -9,4 +9,13 @@ Best authors: https://www.linkedin.com/in/eric-weber-060397b7
 Linkedin SQL challenge (Requires Premium/InLearning)
 https://www.linkedin.com/learning/sql-code-challenges/sql-code-challenges
 
+
 # Logical approach to building a query:
+
+1. Understand the problem (Objective function + Identify or picture Task)
+
+2. Understand the table(s) 
+
+
+
+
