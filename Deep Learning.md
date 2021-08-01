@@ -22,6 +22,9 @@ Key points
 
 * A substitutive of NN is advanced feature engineering for good algorithms. For non-big-data, the no discussion we should go for the first.  
 
+![image](https://user-images.githubusercontent.com/71879463/127782328-fed737d1-3e18-4ad6-8ae9-241f8d9fce6e.png)
+
+
 
 
 ## Supervised Learning
