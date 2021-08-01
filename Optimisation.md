@@ -1,1 +1,6 @@
 
+
+
+
+
+# Gradient Descent Algorithm 
