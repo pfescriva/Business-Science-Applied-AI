@@ -9,6 +9,8 @@ Top business contextes:
 * Add detection: To detect wether a website user will click on the advertising -> Show you the add that you're more likely to click on
 * Photo Tagging 
 * Real Estate
+* Speech recognition / NLP
+* Machine Translation
 
 ## Supervised Learning
 
