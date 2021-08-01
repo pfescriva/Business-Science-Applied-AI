@@ -20,7 +20,7 @@ Key points
 
 * Neural Networks need a lot of effort to train. The value of the accuracy needs to be high. 
 
-* A substitutive of NN is advanced feature engineering for good algorithms. 
+* A substitutive of NN is advanced feature engineering for good algorithms. For non-big-data, the no discussion we should go for the first.  
 
 
 
