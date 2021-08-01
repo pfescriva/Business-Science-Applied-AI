@@ -35,6 +35,8 @@ Neural Network have taken off particularly in this type of ML. However, the area
 
 Hidden layes can be considered as underlying factors that together they alone improve the prediction of the previous layers
 
+Machine learning project should allow you to iterate ideas quickly. There's been a lot of progress on this regard
+
 ### NLP 
 
 
