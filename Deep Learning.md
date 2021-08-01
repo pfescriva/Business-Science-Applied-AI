@@ -6,7 +6,7 @@ The good things of deep learning is that it can be used for everything, even for
 
 Top business contextes: 
 
-* Add detection: To detect wether a website user will click on the advertising 
+* Add detection: To detect wether a website user will click on the advertising -> Show you the add that you're more likely to click on
 
 ## Supervised Learning
 
