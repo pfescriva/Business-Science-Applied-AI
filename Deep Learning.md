@@ -6,11 +6,13 @@ The good things of deep learning is that it can be used for everything, even for
 
 ## Supervised Learning
 
-Neural Network 
+Neural Network have taken off particularly in this type of ML. However, the areas where they make the difference are NLP and Computer Vision. 
 
 ![image](https://user-images.githubusercontent.com/71879463/127781591-a3a34ac8-e757-4455-8ca9-a249cd692152.png)
 
 Hidden layes can be considered as underlying factors that together they alone improve the prediction of the previous layers
+
+### NLP 
 
 
 
