@@ -13,6 +13,17 @@ Top business contextes:
 * Machine Translation -> Chinese
 * Autonomus driving -> Position of other cars
 
+
+Key points
+
+* Neural Networks performance keeps improving as we reach massive values of n, while other algorithms (SVM, Logistic Regression, etc), in simple terms, stop learning at some point in sample size. The more complex the NN, the higher n to stop learning. 
+
+* Neural Networks need a lot of effort to train. The value of the accuracy needs to be high. 
+
+* 
+
+
+
 ## Supervised Learning
 
 Neural Network have taken off particularly in this type of ML. However, the areas where they make the difference are NLP and Computer Vision. 
