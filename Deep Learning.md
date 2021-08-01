@@ -7,11 +7,11 @@ The good things of deep learning is that it can be used for everything, even for
 Top business contextes: 
 
 * Add detection: To detect wether a website user will click on the advertising -> Show you the add that you're more likely to click on
-* Photo Tagging 
-* Real Estate
-* Speech recognition / NLP
-* Machine Translation
-* Autonomus driving 
+* Photo Tagging -> Object (1, ..., 1000)
+* Real Estate -> Price
+* Speech recognition / NLP -> Text Transcript
+* Machine Translation -> Chinese
+* Autonomus driving -> Position of other cars
 
 ## Supervised Learning
 
