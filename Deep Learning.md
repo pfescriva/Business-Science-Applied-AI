@@ -8,7 +8,7 @@ The good things of deep learning is that it can be used for everything, even for
 
 Neural Network 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b1c7a52-ff15-4101-a6f7-2032ba717372/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b1c7a52-ff15-4101-a6f7-2032ba717372/Untitled.png)
+![image](https://user-images.githubusercontent.com/71879463/127781591-a3a34ac8-e757-4455-8ca9-a249cd692152.png)
 
 
 
