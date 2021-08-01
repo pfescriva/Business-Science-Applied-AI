@@ -10,7 +10,7 @@ Neural Network
 
 ![image](https://user-images.githubusercontent.com/71879463/127781591-a3a34ac8-e757-4455-8ca9-a249cd692152.png)
 
-
+Hidden layes can be considered as underlying factors that together they alone improve the prediction of the previous layers
 
 
 
